@@ -1,0 +1,30 @@
+package com.myself.algorithm.sort.swap;
+
+import javax.naming.PartialResultException;
+import java.util.Arrays;
+
+/**
+ * 冒泡排序
+ *最大值一次向后移动
+ */
+public class BubbleSort {
+
+    public static void main(String[] args) {
+        int[] arr = {4,5,3,9,1,2};
+        bubbltSort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+    public static int[] bubbltSort(int[] arr){
+        //比较数组长度-1次
+        for (int i=0;i<arr.length-1;i++){
+            for (int j=i+1;j<arr.length;j++){
+                if(arr[i] > arr[j]){
+                    int temp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+        }
+        return arr;
+    }
+}
