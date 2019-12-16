@@ -1,0 +1,16 @@
+*/target
+*.iml
+/.idea
+*.class
+target/
+.project
+.settings/
+.classpath
+jubian-modules/jubian-tool/src/main/resources/application-dev.yml
+*/logs
+logs/
+data/
+*/jubian-control/jubian-nacos/jubian-nacos/nacos/bin/derby.log
+log/
+logs/
+*.log

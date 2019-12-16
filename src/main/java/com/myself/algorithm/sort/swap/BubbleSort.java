@@ -1,6 +1,5 @@
 package com.myself.algorithm.sort.swap;
 
-import javax.naming.PartialResultException;
 import java.util.Arrays;
 
 /**
@@ -11,10 +10,10 @@ public class BubbleSort {
 
     public static void main(String[] args) {
         int[] arr = {4,5,3,9,1,2};
-        bubbltSort(arr);
+        bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
-    public static int[] bubbltSort(int[] arr){
+    public static int[] bubbleSort(int[] arr){
         //比较数组长度-1次
         for (int i=0;i<arr.length-1;i++){
             for (int j=i+1;j<arr.length;j++){
