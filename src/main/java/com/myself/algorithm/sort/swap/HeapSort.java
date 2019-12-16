@@ -21,7 +21,7 @@ public class HeapSort {
         for (int i=start;i>=0;i--){
             buildMaxHeap(arr,i,arr.length);
         }
-//        System.out.println(Arrays.toString(arr2));
+        System.out.println(Arrays.toString(arr));
 //        buildMaxHeap(arr,start,arr.length);
         for (int i = arr.length - 1;i>0;i--){
             //第一个位置和最后一个位置
