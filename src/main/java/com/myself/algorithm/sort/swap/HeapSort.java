@@ -21,7 +21,7 @@ public class HeapSort {
         for (int i=start;i>=0;i--){
             buildMaxHeap(arr,i,arr.length);
         }
-        System.out.println(Arrays.toString(arr));
+//        System.out.println(Arrays.toString(arr));
 //        buildMaxHeap(arr,start,arr.length);
         for (int i = arr.length - 1;i>0;i--){
             //第一个位置和最后一个位置
@@ -30,7 +30,9 @@ public class HeapSort {
                 arr[0] = arr[i];
                 arr[i] = temp;
             }
+            System.out.println(Arrays.toString(arr));
             buildMaxHeap(arr,0,i-1);
+            System.out.println(Arrays.toString(arr));
         }
         System.out.println(Arrays.toString(arr));
     }
