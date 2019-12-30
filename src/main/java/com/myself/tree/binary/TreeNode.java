@@ -15,4 +15,14 @@ public class TreeNode {
     private TreeNode leftNode;
     private TreeNode rightNode;
 
+
+    public int height(TreeNode root){
+        if(root == null){
+            return 0;
+        }
+        int lHeight = height(root.leftNode);
+        int rHeight = height(root.rightNode);
+        return lHeight > rHeight ? lHeight + 1 : rHeight + 1;
+
+    }
 }

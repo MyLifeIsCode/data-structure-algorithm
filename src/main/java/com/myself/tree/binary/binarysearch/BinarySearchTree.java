@@ -18,10 +18,15 @@ public class BinarySearchTree {
     static TreeNode rootNode = null;
     public static void main(String[] args) {
         int[] arr = {1,3,5,7,9,2,4,6,8};
+//        int[] arr = {1,3};
         buildSearchTree(arr);
+//        int height = rootNode.height(rootNode);
+//        System.out.println(height);
 //        levelOrder(rootNode);
-        TreeNode search = search(rootNode, 5);
-        System.out.println(search.toString());
+//        after(rootNode);
+
+//        TreeNode search = search(rootNode, 5);
+//        System.out.println(search.toString());
     }
 
 
@@ -84,7 +89,7 @@ public class BinarySearchTree {
     }
 
     /**
-     * 中序遍历
+     * 中序遍历,从小到大排序
      * @param node
      */
     public static void middle(TreeNode node){
