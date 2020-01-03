@@ -33,7 +33,7 @@ public class QuickSort {
                     endIndex --;
                 }
             }
-            //比较右边的
+            //比较左边的
             while (startIndex < endIndex ){
                 if(arr[startIndex] > standard){
                     arr[endIndex] = arr[startIndex];
