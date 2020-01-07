@@ -17,7 +17,7 @@ public class DuplicateWord {
         if(null == numbers){
             return false;
         }
-        boolean[] num = new boolean[length];
+        boolean[] num = new boolean[length+1];
         for (int i = 0; i < numbers.length; i++) {
             if(num[numbers[i]] == true){
                 duplication[0] = numbers[i];
