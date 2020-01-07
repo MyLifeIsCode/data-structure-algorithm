@@ -192,7 +192,6 @@ public class AvlTree {
                     resList.add(tempList);
                     queue.offer(null);
                 }
-
             }
         }
         for (List<TreeNode> treeNodes : resList) {
