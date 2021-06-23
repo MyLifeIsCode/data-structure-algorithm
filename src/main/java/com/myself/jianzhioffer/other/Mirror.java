@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.other;
 
 /**
- * @program: jubian-cloud->Mirror
+ * @program: Mirror
  * @description: 构建镜像二叉树
  * 操作给定的二叉树，将其变换为源二叉树的镜像。
  * 二叉树的镜像定义：源二叉树

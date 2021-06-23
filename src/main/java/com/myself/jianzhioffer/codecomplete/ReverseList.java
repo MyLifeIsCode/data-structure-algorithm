@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.codecomplete;
 
 /**
- * @program: jubian-cloud->ReverseList
+ * @program: ReverseList
  * @description: 反转链表
  * @author: qll
  * @create: 2020-01-14 14:34

@@ -1,7 +1,7 @@
 package com.myself.letcode;
 
 /**
- * @program: jubian-cloud->Palindrome
+ * @program: Palindrome
  * @description: 判断是否为回文数
  * 1、取后半段
  * 2、字符串方式

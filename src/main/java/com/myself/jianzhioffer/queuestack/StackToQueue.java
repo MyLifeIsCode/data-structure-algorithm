@@ -3,7 +3,7 @@ package com.myself.jianzhioffer.queuestack;
 import java.util.Stack;
 
 /**
- * @program: jubian-cloud->StackToQueue
+ * @program: StackToQueue
  * @description: 用2个栈实现队列
  * 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
  * @author: qll

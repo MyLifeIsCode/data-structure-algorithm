@@ -1,7 +1,7 @@
 package com.myself.letcode;
 
 /**
- * @program: jubian-cloud->ReverseInt
+ * @program: ReverseInt
  * @description: 整数反转
  * 解题思路
  * 方式1 取模运算

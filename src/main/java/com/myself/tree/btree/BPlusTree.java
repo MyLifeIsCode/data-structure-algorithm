@@ -1,7 +1,7 @@
 package com.myself.tree.btree;
 
 /**
- * @program: jubian-cloud->BPlusTree
+ * @program: BPlusTree
  * @description: b+树
  * B+树的特征：
  * 1.有k个子树的中间节点包含有k个元素（B树中是k-1个元素），每个元素不保存数据，只用来索引，所有数据都保存在叶子节点。

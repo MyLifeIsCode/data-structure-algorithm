@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.binary;
 
 /**
- * @program: jubian-cloud->NumberOf1
+ * @program: NumberOf1
  * @description: 整数中二进制1的个数
  * 输入一个整数，输出该数二进制表示中1的个数。其中负数用补码表示。
  * @author: qll

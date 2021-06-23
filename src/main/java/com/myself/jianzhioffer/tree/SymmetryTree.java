@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @program: jubian-cloud->SymmetryTree
+ * @program: SymmetryTree
  * @description: 对称二叉树 ，两个子树互为镜像
  * 如果同时满足下面的条件，两个树互为镜像：
  *

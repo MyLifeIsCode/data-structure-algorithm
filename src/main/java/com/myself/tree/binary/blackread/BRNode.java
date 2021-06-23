@@ -3,7 +3,7 @@ package com.myself.tree.binary.blackread;
 import lombok.Data;
 
 /**
- * @program: jubian-cloud->BRNode
+ * @program: BRNode
  * @description: 红黑树节点
  * @author: qll
  * @create: 2019-12-31 11:17

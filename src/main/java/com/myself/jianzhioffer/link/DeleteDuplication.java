@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.link;
 
 /**
- * @program: jubian-cloud->DeleteDuplication
+ * @program: DeleteDuplication
  * @description: 删除重复元素
  * @author: qll
  * @create: 2020-01-09 15:21

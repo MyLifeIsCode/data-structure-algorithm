@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @program: jubian-cloud->BRTree
+ * @program: BRTree
  * @description: 红黑树
  * 1、如果插入节点的父节点和叔节点都是红色 变色->左旋转->右旋转
  * 2、如果插入节点的父节点红色，叔节点是 黑色，且插入节点是右节点，则进行左旋转

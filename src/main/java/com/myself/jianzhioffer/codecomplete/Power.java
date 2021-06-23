@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.codecomplete;
 
 /**
- * @program: jubian-cloud->Power
+ * @program: Power
  * @description: 数的n次方
  * 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
  *

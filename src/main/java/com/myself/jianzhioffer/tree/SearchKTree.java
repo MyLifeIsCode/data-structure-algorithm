@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @program: jubian-cloud->SearchKTree
+ * @program: SearchKTree
  * @description: 查找第级小的树
  * @author: qll
  * @create: 2020-01-07 10:35

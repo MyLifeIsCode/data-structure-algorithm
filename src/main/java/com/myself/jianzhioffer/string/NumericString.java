@@ -3,7 +3,7 @@ package com.myself.jianzhioffer.string;
 import java.util.Arrays;
 
 /**
- * @program: jubian-cloud->NumericString
+ * @program: NumericString
  * @description: 数字字符串
  * 请实现一个函数用来判断字符串是否表示数值（包括整数和小数）。
  * 例如，字符串"+100","5e2","-123","3.1416"和"-1E-16"都表示数值。

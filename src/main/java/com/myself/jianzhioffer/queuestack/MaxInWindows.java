@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Queue;
 
 /**
- * @program: jubian-cloud->MaxInWindows
+ * @program: MaxInWindows
  * @description: 滑动窗口的最大值
  * @author: qll
  * @create: 2020-01-09 17:41

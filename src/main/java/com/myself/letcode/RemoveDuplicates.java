@@ -1,7 +1,7 @@
 package com.myself.letcode;
 
 /**
- * @program: jubian-cloud->RemoveDuplicates
+ * @program: RemoveDuplicates
  * @description: 删除数组中重复值
  * 方法：双指针法
  * @author: qll

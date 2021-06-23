@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 /**
- * @program: jubian-cloud->TailToHeadLink
+ * @program: TailToHeadLink
  * @description: 从尾部到头部打印链表
  * @author: qll
  * @create: 2020-01-09 14:23

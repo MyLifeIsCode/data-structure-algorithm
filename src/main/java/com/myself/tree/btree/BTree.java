@@ -1,7 +1,7 @@
 package com.myself.tree.btree;
 
 /**
- * @program: jubian-cloud->BTree
+ * @program: BTree
  * @description:Btree
  * （1）每个结点最多有m-1个关键字。
  * （2）根结点最少可以只有1个关键字。

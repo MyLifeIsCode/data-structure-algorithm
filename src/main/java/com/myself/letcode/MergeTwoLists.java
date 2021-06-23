@@ -1,7 +1,7 @@
 package com.myself.letcode;
 
 /**
- * @program: jubian-cloud->MergeTwoLists
+ * @program: MergeTwoLists
  * @description: 连个集合合并
  * @author: qll
  * @create: 2019-11-28 18:53

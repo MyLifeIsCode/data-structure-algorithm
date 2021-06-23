@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * @program: jubian-cloud->PrintMinNumber
+ * @program: PrintMinNumber
  * @description: 把数组排成最小的数
  * @author: qll
  * @create: 2020-01-17 16:46

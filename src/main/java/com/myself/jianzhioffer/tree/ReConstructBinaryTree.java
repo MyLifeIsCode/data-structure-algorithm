@@ -3,7 +3,7 @@ package com.myself.jianzhioffer.tree;
 import java.util.Arrays;
 
 /**
- * @program: jubian-cloud->ReConstructBinaryTree
+ * @program: ReConstructBinaryTree
  * @description: 二叉树回溯
  * 输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。
  * 假设输入的前序遍历和中序遍历的结果中都不含重复的数字。

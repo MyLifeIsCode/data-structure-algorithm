@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.codecomplete;
 
 /**
- * @program: jubian-cloud->FindKthToTail
+ * @program: FindKthToTail
  * @description: 链表倒数第k个数
  * 输入一个链表，输出该链表中倒数第k个结点。
  * @author: qll

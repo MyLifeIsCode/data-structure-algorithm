@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.recursionandloop;
 
 /**
- * @program: jubian-cloud->Fabnaci
+ * @program: Fabnaci
  * @description: 斐波那契数列
  * @author: qll
  * @create: 2020-01-13 14:33

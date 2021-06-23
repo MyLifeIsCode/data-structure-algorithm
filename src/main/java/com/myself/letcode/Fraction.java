@@ -3,7 +3,7 @@ package com.myself.letcode;
 import java.util.Arrays;
 
 /**
- * @program: jubian-cloud->Fraction
+ * @program: Fraction
  * @description: 分式拆分
  * @author: qll
  * @create: 2019-11-29 10:36

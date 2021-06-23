@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @program: jubian-cloud->MiddleNumTree
+ * @program: MiddleNumTree
  * @description: 中位数计算
  * @author: qll
  * @create: 2020-01-07 11:18

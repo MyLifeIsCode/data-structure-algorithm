@@ -1,7 +1,7 @@
 package com.myself.letcode;
 
 /**
- * @program: jubian-cloud->GameNum
+ * @program: GameNum
  * @description: 猜字游戏
  * @author: qll
  * @create: 2019-11-28 20:59

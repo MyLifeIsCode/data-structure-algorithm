@@ -6,7 +6,7 @@ import java.util.Objects;
 import java.util.Stack;
 
 /**
- * @program: jubian-cloud->IsValid
+ * @program: IsValid
  * @description: 有效的括号
  * 使用数据结构栈
  * @author: qll

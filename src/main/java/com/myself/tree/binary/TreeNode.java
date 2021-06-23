@@ -3,7 +3,7 @@ package com.myself.tree.binary;
 import lombok.Data;
 
 /**
- * @program: jubian-cloud->TreeNode
+ * @program: TreeNode
  * @description:
  * @author: qll
  * @create: 2019-12-27 15:27

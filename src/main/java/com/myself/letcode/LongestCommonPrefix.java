@@ -1,7 +1,7 @@
 package com.myself.letcode;
 
 /**
- * @program: jubian-cloud->LongestCommonPrefix
+ * @program: LongestCommonPrefix
  * @description: 最长前缀
  * @author: qll
  * @create: 2019-11-28 11:44

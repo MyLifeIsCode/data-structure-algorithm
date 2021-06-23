@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.timeefficiency;
 
 /**
- * @program: jubian-cloud->NumberOf1Between1AndN_Solution
+ * @program: NumberOf1Between1AndN_Solution
  * @description: 整数中1出现的次数（从1到n整数中1出现的次数）
  * @author: qll
  * @create: 2020-01-17 14:53

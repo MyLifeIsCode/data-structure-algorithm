@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @program: jubian-cloud->TreeNode
+ * @program: TreeNode
  * @description: 线性二叉树
  * @author: qll
  * @create: 2019-12-27 11:13

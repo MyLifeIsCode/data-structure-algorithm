@@ -1,7 +1,7 @@
 package com.myself.jianzhioffer.tree;
 
 /**
- * @program: jubian-cloud->TreeSerDeser
+ * @program: TreeSerDeser
  * @description: 序列化反序列化
  * 请实现两个函数，分别用来序列化和反序列化二叉树
  * 二叉树的序列化是指：把一棵二叉树按照某种遍历方式的结果以某种格式保存为字符串，
